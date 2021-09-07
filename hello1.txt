@@ -3,4 +3,8 @@ push request.
 
 on an exiting repository 
 
-link use for pushing - https://github.com/Naveen-OO7/revision-.git
+link use for pushing - https://github.com/Naveen-OO7/revision-.gitl
+
+link use for pulling - https://github.com/Naveen-OO7/revision-.git
+
+hence they both are same 
